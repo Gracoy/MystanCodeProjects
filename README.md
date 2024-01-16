@@ -2,7 +2,7 @@
 Hello there! These projects were accomplished during stanCode's SC101 course.\
 Hope you like it !
 #
-###  *Project names and their topics:* 
+###  *Project names and topics:* 
 * bouncing_ball : Animation
 * draw_line :     Animation, OOP
 * breakout :      Animation, OOP
